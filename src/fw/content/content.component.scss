@@ -1,0 +1,11 @@
+@import "../../_variables";
+
+:host{
+    display: flex;
+    background-color: $first-color;
+    flex-grow: 1;
+}
+.body-style {
+  padding: 20px;
+  flex-grow: 1;
+}

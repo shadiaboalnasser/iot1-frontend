@@ -1,0 +1,15 @@
+agm-map {
+  position: absolute;
+  top: 3%;
+  left: 19%;
+  width: 80% !important;
+  height: 70% !important;
+}
+
+.google-map{
+
+  position: relative;
+  padding-bottom: 75%; // This is the aspect ratio
+  height: 0;
+  overflow: hidden;
+}
